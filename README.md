@@ -46,8 +46,8 @@ Web Browser: Google Chrome, Microsoft Edge
 
 
 # Additional Information
-Design And Developed : Sathish Aithal V S
+Design And Developed by : Sathish Aithal V S
 
 # Acknowledgments
-Thanks to the developers of the libraries and tools used in this project.
-Special thanks to mentors and peers who provided guidance and feedback.
+* Thanks to the developers of the libraries and tools used in this project.
+* Special thanks to mentors and peers who provided guidance and feedback.
